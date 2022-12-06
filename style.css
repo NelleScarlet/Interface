@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+  }
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(121, 212, 228);
+    margin: 0px;
+  }
+  .option1 {
+    height: 200px;
+    width: 300px;
+    border: 4px outset rgb(0, 255, 255);
+    margin: 10px;
+    float: right;
+  }
+  .option2 {
+    height: 200px;
+    width: 300px;
+    border: 4px outset rgb(0, 255, 255);
+    margin: 10px;
+    float: right;
+  }
+  .option3 {
+    height: 200px;
+    width: 300px;
+    border: 4px outset rgb(0, 255, 255);
+    margin: 10px;
+    float: right;
+  }
+  .option4 {
+    height: 200px;
+    width: 300px;
+    border: 4px outset rgb(0, 255, 255);
+    margin: 10px;
+    float: right;
+  }
+  .option5 {
+    height: 200px;
+    width: 300px;
+    border: 4px outset rgb(0, 255, 255);
+    margin: 10px;
+    float: right;
+  }
+  .option6 {
+    height: 200px;
+    width: 300px;
+    border: 4px outset rgb(0, 255, 255);
+    margin: 10px;
+    float: right;
+  }
+  .option{
+    padding: 15px 33px;
+    margin-top: 52px;
+    margin-bottom: 20px;
+    height: 345px;
+    width: 1000px;
+    margin-right: 30px;
+  }
+  div {
+    background-color:rgb(121, 212, 228);
+  }
+  p {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 52px;
+    color: rgb(0, 255, 255);
+  }
+  @media screen and (max-width: 500px) {
+  .content1 {
+    height: 85px;
+    width: 165px;
+    margin: 10px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+  }
+  .option2 {
+    height: 85px;
+    width: 165px;
+    margin: 10px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+  }
+  .option3 {
+    height: 85px;
+    width: 165px;
+    margin: 10px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+  }
+  .option4 {
+    height: 85px;
+    width: 165px;
+    margin: 10px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+  }
+  .option5 {
+    height: 85px;
+    width: 165px;
+    margin: 10px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+  }
+  .option6 {
+    height: 85px;
+    width: 165px;
+    margin: 10px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+  }
+  }
